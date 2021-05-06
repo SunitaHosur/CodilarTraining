@@ -101,9 +101,10 @@ body .box-grid{
 }
 .item-content.col-1{
     border-top-right-radius: 10px; 
+    border-bottom-left-radius: 0px;
 }
 .item-content.col-3{
-    border-top-right-radius: none;
     border-bottom-left-radius: 10px;
+    border-top-right-radius: 0px;
 }
 }
